@@ -1,6 +1,6 @@
 {
   "name": "popover-for-nisha",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "src/index.js",
   "keywords": [
     "popover-for-nisha",
@@ -17,5 +17,10 @@
   "private": false,
   "description": "This repository will provide you a popover.",
   "author": "Deepak Rajpurohit",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/hateyouRoughly/popover-for-nisha"
+  },
+  "homepage": "https://github.com/hateyouRoughly/popover-for-nisha"
 }
