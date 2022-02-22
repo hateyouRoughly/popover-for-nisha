@@ -1,6 +1,6 @@
 {
   "name": "popover-for-nisha",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "main": "src/index.js",
   "keywords": [
     "popover-for-nisha",
@@ -24,3 +24,4 @@
   },
   "homepage": "https://github.com/hateyouRoughly/popover-for-nisha"
 }
+
